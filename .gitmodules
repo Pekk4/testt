@@ -1,0 +1,5 @@
+[submodule "bookabike"]
+	path = bookabike
+	url = https://github.com/pekk4/bookabike
+    branch = master
+
